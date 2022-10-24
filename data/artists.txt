@@ -1,0 +1,107 @@
+{'id': '4XC335ouK6pXyq4QiIb8bP', 'name': 'Eliza Rose', 'popularity': 73}
+{'id': '5y8tKLUfMvliMe8IKamR32', 'name': 'd4vd', 'popularity': 77}
+{'id': '3Nrfpe0tUJi4K4DXYWgMUX', 'name': 'BTS', 'popularity': 92}
+{'id': '1Cs0zKBU1kc0i8ypK3B9ai', 'name': 'David Guetta', 'popularity': 90}
+{'id': '56oDRnqbIiwx4mymNEv7dS', 'name': 'Lizzo', 'popularity': 81}
+{'id': '5FxD8fkQZ6KcsSYupDVoSO', 'name': 'Omar Apollo', 'popularity': 76}
+{'id': '5H4yInM5zmHqpKIoMNAx4r', 'name': 'Central Cee', 'popularity': 82}
+{'id': '2qAwMsiIjTzlmfAkXKvhVA', 'name': 'Armani White', 'popularity': 72}
+{'id': '6VuMaDnrHyPL1p4EHjYLi7', 'name': 'Charlie Puth', 'popularity': 85}
+{'id': '6KImCVD70vtIoJWnq6nGn3', 'name': 'Harry Styles', 'popularity': 91}
+{'id': '40ZNYROS4zLfyyBSs2PGe2', 'name': 'Zach Bryan', 'popularity': 82}
+{'id': '3QSQFmccmX81fWCUSPTS7y', 'name': 'Dean Lewis', 'popularity': 78}
+{'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'popularity': 98}
+{'id': '1RyvyyTE3xzB2ZywiAwp0i', 'name': 'Future', 'popularity': 88}
+{'id': '64M6ah0SkkRsnPGtGiRAbb', 'name': 'Bebe Rexha', 'popularity': 84}
+{'id': '7bXgB6jMjp9ATFy66eO08Z', 'name': 'Chris Brown', 'popularity': 88}
+{'id': '3MZsBdqDrRTJihTHQrO6Dq', 'name': 'Joji', 'popularity': 84}
+{'id': '5cj0lLjcoR7YOSnhnX0Po5', 'name': 'Doja Cat', 'popularity': 88}
+{'id': '6eUKZXaKkcviH0Ku9w2n3V', 'name': 'Ed Sheeran', 'popularity': 91}
+{'id': '5XKFrudbV4IiuE5WuTPRmT', 'name': 'Stephen Sanchez', 'popularity': 76}
+{'id': '46pWGuE3dSwY3bMMXGBvVS', 'name': 'Rema', 'popularity': 79}
+{'id': '2wY79sveU1sp5g7SokKOiI', 'name': 'Sam Smith', 'popularity': 89}
+{'id': '0tmwSHipWxN12fsoLcFU3B', 'name': 'Manuel Turizo', 'popularity': 85}
+{'id': '26dSoYclwsYLMAKD3tpOr4', 'name': 'Britney Spears', 'popularity': 82}
+{'id': '6HaGTQPmzraVmaVxvz6EUc', 'name': 'Jung Kook', 'popularity': 76}
+{'id': '7jVv8c5Fj3E9VhNjxT4snq', 'name': 'Lil Nas X', 'popularity': 83}
+{'id': '3PhoLpVuITZKcymswpck5b', 'name': 'Elton John', 'popularity': 85}
+{'id': '2W8yFh0Ga6Yf3jiayVxwkE', 'name': 'Dove Cameron', 'popularity': 74}
+{'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'popularity': 89}
+{'id': '52iwsT98xCoGgiGntTiR7K', 'name': 'Quevedo', 'popularity': 86}
+{'id': '46xBNx0j6cwY6sD9LgMTm1', 'name': 'Rosa Linn', 'popularity': 78}
+{'id': '0C8ZW7ezQVs4URX5aX7Kqx', 'name': 'Selena Gomez', 'popularity': 84}
+{'id': '164Uj4eKjl6zTBKfJLFKKK', 'name': 'JVKE', 'popularity': 78}
+{'id': '6LuN9FCkKOj5PcnpouEgny', 'name': 'Khalid', 'popularity': 86}
+{'id': '41MozSoPIsD1dJM0CLPjZF', 'name': 'BLACKPINK', 'popularity': 89}
+{'id': '64KEffDW9EtZ1y2vBYgq8T', 'name': 'Marshmello', 'popularity': 84}
+{'id': '4q3ewBCX7sLwd24euuV69X', 'name': 'Bad Bunny', 'popularity': 100}
+{'id': '0lAWpj5szCSwM4rUMHYmrr', 'name': 'Måneskin', 'popularity': 80}
+{'id': '57vWImR43h4CaDao012Ofp', 'name': 'Steve Lacy', 'popularity': 86}
+{'id': '6TLwD7HPWuiOzvXEa3oCNe', 'name': 'Oliver Tree', 'popularity': 78}
+{'id': '6icQOAFXDZKsumw3YXyusw', 'name': 'Lil Yachty', 'popularity': 79}
+{'id': '3t5xRXzsuZmMDkQzgOX35S', 'name': 'Robin Schulz', 'popularity': 80}
+{'id': '3WTrdbZU99dgTtt3ZkyamT', 'name': 'Oxlade', 'popularity': 71}
+{'id': '7qmpXeNz2ojlMl2EEfkeLs', 'name': 'Nicky Youre', 'popularity': 75}
+{'id': '38PzLQE4GW8o7A18oGhi0x', 'name': 'dazy', 'popularity': 75}
+{'id': '246dkjvS1zLTtiykXe5h60', 'name': 'Post Malone', 'popularity': 89}
+{'id': '4nDoRrQiYLoBzwC5BhVJzF', 'name': 'Camila Cabello', 'popularity': 82}
+{'id': '3Xt3RrJMFv5SZkCfUE8C1J', 'name': 'Kim Petras', 'popularity': 83}
+{'id': '4GNC7GD6oZMSxPGyXy4MNB', 'name': 'Lewis Capaldi', 'popularity': 81}
+{'id': '6uJ51uV5rYzu1MJkC4CceI', 'name': 'Interplanetary Criminal', 'popularity': 73}
+{'id': '6vWDO969PvNqNYHIOW5v0m', 'name': 'Beyoncé', 'popularity': 88}
+{'id': '5Pwc4xIPtQLFEnJriah9YJ', 'name': 'OneRepublic', 'popularity': 85}
+{'id': '4MCBfE4596Uoi2O4DtmEMz', 'name': 'Juice WRLD', 'popularity': 90}
+{'id': '7ltDVBr6mKbRvohxheJ9h1', 'name': 'ROSALÍA', 'popularity': 86}
+{'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'popularity': 87}
+{'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'popularity': 91}
+{'id': '716NhGYqD1jl2wI1Qkgq36', 'name': 'Bizarrap', 'popularity': 86}
+{'id': '2tIP7SsRs7vjIcLrU85W8J', 'name': 'The Kid LAROI', 'popularity': 82}
+{'id': '41I5xI04kixwmonDBl0Sda', 'name': 'King Combs', 'popularity': 58}
+{'id': '4yBK75WVCQXej1p04GWqxH', 'name': 'Jeezy', 'popularity': 71}
+{'id': '5oNgAs7j5XcBMzWv3HAnHG', 'name': 'DJ Drama', 'popularity': 61}
+{'id': '5QdEbQJ3ylBnc3gsIASAT5', 'name': 'G Herbo', 'popularity': 74}
+{'id': '0Njy6yR9LykNKYg9yE23QN', 'name': 'Nardo Wick', 'popularity': 75}
+{'id': '6aLoJJxz7MV2iZ423S8tJC', 'name': 'Doe Boy', 'popularity': 62}
+{'id': '5H4yInM5zmHqpKIoMNAx4r', 'name': 'Central Cee', 'popularity': 82}
+{'id': '768KV6PLzzcqy1CRCMFUNW', 'name': 'Baby Racks', 'popularity': 52}
+{'id': '2qAwMsiIjTzlmfAkXKvhVA', 'name': 'Armani White', 'popularity': 72}
+{'id': '0YinUQ50QDB7ZxSCLyQ40k', 'name': 'Mustard', 'popularity': 74}
+{'id': '3hcs9uc56yIGFCSy9leWe7', 'name': 'Lil Durk', 'popularity': 84}
+{'id': '45gHcnDnMC15sgx3VL7ROG', 'name': '42 Dugg', 'popularity': 73}
+{'id': '46SHBwWsqBkxI7EeeBEQG7', 'name': 'Kodak Black', 'popularity': 82}
+{'id': '6AUl0ykLLpvTktob97x9hO', 'name': 'Tee Grizzley', 'popularity': 70}
+{'id': '7c0XG5cIJTrrAgEC3ULPiq', 'name': 'Ty Dolla $ign', 'popularity': 82}
+{'id': '4kYSro6naA4h99UJvo89HB', 'name': 'Cardi B', 'popularity': 81}
+{'id': '3tJoFztHeIJkJWMrx0td2f', 'name': 'Moneybagg Yo', 'popularity': 78}
+{'id': '0RESbWvOMyua0yuyVrztJ5', 'name': 'Key Glock', 'popularity': 74}
+{'id': '0A0FS04o6zMoto8OKPsDwY', 'name': 'YG', 'popularity': 77}
+{'id': '4Ga1P7PMIsmqEZqhYZQgDo', 'name': 'Lil Tecca', 'popularity': 78}
+{'id': '45TgXXqMDdF8BkjA83OM7z', 'name': 'Rod Wave', 'popularity': 79}
+{'id': '0fA0VVWsXO9YnASrzqfmYu', 'name': 'Kid Cudi', 'popularity': 83}
+{'id': '6EPlBSH2RSiettczlz7ihV', 'name': 'Sleepy Hallow', 'popularity': 78}
+{'id': '6l3HvQ5sa6mXTsMTB19rO5', 'name': 'J. Cole', 'popularity': 86}
+{'id': '3OoC54nEM3Xl7Kn5hsDdpg', 'name': 'Finesse2tymes', 'popularity': 58}
+{'id': '6jGMq4yGs7aQzuGsMgVgZR', 'name': 'Lil Tjay', 'popularity': 81}
+{'id': '4O15NlyKLIASxsJ0PrXPfz', 'name': 'Lil Uzi Vert', 'popularity': 86}
+{'id': '13y7CgLHjMVRMDqxdx0Xdo', 'name': 'Gucci Mane', 'popularity': 78}
+{'id': '7rkW85dBwwrJtlHRDkJDAC', 'name': 'NAV', 'popularity': 78}
+{'id': '5f7VJjfbwm532GiveGC0ZK', 'name': 'Lil Baby', 'popularity': 91}
+{'id': '64KEffDW9EtZ1y2vBYgq8T', 'name': 'Marshmello', 'popularity': 84}
+{'id': '1z7b1Pr1rSlvWRzsW3HOrS', 'name': 'Russ', 'popularity': 77}
+{'id': '0Y4inQK6OespitzD6ijMwb', 'name': 'Freddie Gibbs', 'popularity': 72}
+{'id': '4DdkRBBYG6Yk9Ka8tdJ9BW', 'name': 'Offset', 'popularity': 79}
+{'id': '6icQOAFXDZKsumw3YXyusw', 'name': 'Lil Yachty', 'popularity': 79}
+{'id': '757aE44tKEUQEqRuT6GnEB', 'name': 'Roddy Ricch', 'popularity': 81}
+{'id': '3LZZPxNDGDFVSIPqf4JuEf', 'name': 'Ice Spice', 'popularity': 62}
+{'id': '0VRj0yCOv2FXJNP47XQnx5', 'name': 'Quavo', 'popularity': 81}
+{'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'popularity': 95}
+{'id': '3EW0kQ1skZiK1NHg3Spt9J', 'name': 'Takeoff', 'popularity': 74}
+{'id': '0WK3H9OErSn5zKOkOV5egm', 'name': 'DDG', 'popularity': 68}
+{'id': '2qoQgPAilErOKCwE2Y8wOG', 'name': 'GloRilla', 'popularity': 68}
+{'id': '4FlG0V0jhLO4qGpayFOphj', 'name': 'EST Gee', 'popularity': 73}
+{'id': '4MCBfE4596Uoi2O4DtmEMz', 'name': 'Juice WRLD', 'popularity': 90}
+{'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'popularity': 87}
+{'id': '6MPCFvOQv5cIGfw3jODMF0', 'name': 'Internet Money', 'popularity': 73}
+{'id': '31W5EY0aAly4Qieq6OFu6I', 'name': 'A Boogie Wit da Hoodie', 'popularity': 81}
+{'id': '1ybINI1qPiFbwDXamRtwxD', 'name': 'Smino', 'popularity': 69}
+{'id': '0QHgL1lAIqAw0HtD7YldmP', 'name': 'DJ Khaled', 'popularity': 81}

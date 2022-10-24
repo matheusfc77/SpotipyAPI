@@ -1,0 +1,100 @@
+{'id': '5CM4UuQ9Gnd6K2YyKGPMoK', 'name': 'Bad Habit', 'popularity': 91, 'duration_ms': 232114}
+{'id': '6xGruZOHLs39ZbVccQTuPZ', 'name': 'Glimpse of Us', 'popularity': 94, 'duration_ms': 233456}
+{'id': '1IHWl5LamUGEuP4ozKQSXZ', 'name': 'Tití Me Preguntó', 'popularity': 96, 'duration_ms': 243716}
+{'id': '4LRPiXqCikLlN15c3yImP7', 'name': 'As It Was', 'popularity': 95, 'duration_ms': 167303}
+{'id': '4zrKN5Sv8JS5mqnbVcsul7', 'name': 'Celestial', 'popularity': 85, 'duration_ms': 209026}
+{'id': '27ZZdyTSQWI7Cug2d2PkqV', 'name': 'BILLIE EILISH.', 'popularity': 89, 'duration_ms': 99282}
+{'id': '1xzi1Jcr7mEi9K2RfzLOqS', 'name': 'CUFF IT', 'popularity': 93, 'duration_ms': 225388}
+{'id': '1PckUlxKqWQs3RlWXVBLw3', 'name': 'About Damn Time', 'popularity': 89, 'duration_ms': 191822}
+{'id': '72yP0DUlWPyH8P7IoxskwN', 'name': 'Hold Me Closer', 'popularity': 89, 'duration_ms': 202245}
+{'id': '3nqQXoyQOWXiESFLlDF1hG', 'name': 'Unholy (feat. Kim Petras)', 'popularity': 100, 'duration_ms': 156943}
+{'id': '4h4QlmocP3IuwYEj2j14p8', 'name': 'Sunroof', 'popularity': 91, 'duration_ms': 163025}
+{'id': '6XO8RlYuJCiI0v3IA48FeJ', 'name': 'Bye Bye', 'popularity': 84, 'duration_ms': 108498}
+{'id': '0T5iIrXA4p5GsubkhuBIKV', 'name': 'Until I Found You', 'popularity': 89, 'duration_ms': 177720}
+{'id': '10xV5l9nhLvFpR8mqzs0bL', 'name': 'Numb', 'popularity': 87, 'duration_ms': 155588}
+{'id': '2WigMwGJysIh9fRnSJvpjn', 'name': 'KU LO SA - A COLORS SHOW', 'popularity': 87, 'duration_ms': 147580}
+{'id': '5jQI2r1RdgtuT8S3iG8zFC', 'name': 'Lavender Haze', 'popularity': 87, 'duration_ms': 202395}
+{'id': '3LtpKP5abr2qqjunvjlX5i', 'name': 'Doja', 'popularity': 92, 'duration_ms': 97392}
+{'id': '73vIOb4Q7YN6HeJTbscRx5', 'name': 'Miss You', 'popularity': 89, 'duration_ms': 206000}
+{'id': '0V3wPSX9ygBnCm8psDIegu', 'name': 'Anti-Hero', 'popularity': 88, 'duration_ms': 200690}
+{'id': '4C6Uex2ILwJi9sZXRdmqXp', 'name': 'Super Freaky Girl', 'popularity': 91, 'duration_ms': 170977}
+{'id': '74loibzxXRL875X20kenvk', 'name': 'Poland', 'popularity': 85, 'duration_ms': 83200}
+{'id': '0O6u0VJ46W86TxN9wgyqDj', 'name': 'I Like You (A Happier Song) (with Doja Cat)', 'popularity': 91, 'duration_ms': 192840}
+{'id': '76OGwb5RA9h4FxQPT33ekc', 'name': 'SNAP', 'popularity': 93, 'duration_ms': 179551}
+{'id': '0mBP9X2gPCuapvpZ7TGDk3', 'name': 'Left and Right (Feat. Jung Kook of BTS)', 'popularity': 91, 'duration_ms': 154486}
+{'id': '5uSFGgIfHMT3osrAd9n9ym', 'name': 'Forget Me', 'popularity': 88, 'duration_ms': 203472}
+{'id': '2tTmW7RDtMQtBk7m2rYeSw', 'name': 'Quevedo: Bzrp Music Sessions, Vol. 52', 'popularity': 98, 'duration_ms': 198937}
+{'id': '6Uj1ctrBOjOas8xZXGqKk4', 'name': 'Woman', 'popularity': 88, 'duration_ms': 172626}
+{'id': '2rmwqU7yzTvzkiaRV53DpT', 'name': '2 Be Loved (Am I Ready)', 'popularity': 84, 'duration_ms': 187107}
+{'id': '5HCyWlXZPP0y6Gqq8TgA20', 'name': 'STAY (with Justin Bieber)', 'popularity': 88, 'duration_ms': 141805}
+{'id': '0QBzMgT7NIeoCYy3sJCof1', 'name': 'Bam Bam (feat. Ed Sheeran)', 'popularity': 86, 'duration_ms': 206070}
+{'id': '0HqZX76SFLDz2aW8aiqi7G', 'name': 'Bones', 'popularity': 89, 'duration_ms': 165264}
+{'id': '5IgjP7X4th6nMNDh4akUHb', 'name': 'Under The Influence', 'popularity': 96, 'duration_ms': 184613}
+{'id': '5ww2BF9slyYgNOk37BlC4u', 'name': 'La Bachata', 'popularity': 97, 'duration_ms': 162637}
+{'id': '39JofJHEtg8I4fSyo7Imft', 'name': 'B.O.T.A. (Baddest Of Them All) - Edit', 'popularity': 89, 'duration_ms': 226626}
+{'id': '3WMj8moIAXJhHsyLaqIIHI', 'name': 'Something in the Orange', 'popularity': 89, 'duration_ms': 228013}
+{'id': '1qEmFfgcLObUfQm0j1W2CK', 'name': 'Late Night Talking', 'popularity': 92, 'duration_ms': 177954}
+{'id': '4uUG5RXrOk84mYEfFvj3cK', 'name': "I'm Good (Blue)", 'popularity': 98, 'duration_ms': 175238}
+{'id': '59nOXPmaKlBfGMDeOVGrIK', 'name': 'WAIT FOR U (feat. Drake & Tems)', 'popularity': 89, 'duration_ms': 189893}
+{'id': '5ildQOEKmJuWGl2vRkFdYc', 'name': 'DESPECHÁ', 'popularity': 94, 'duration_ms': 157017}
+{'id': '1xK59OXxi2TAAAbmZK0kBL', 'name': 'Romantic Homicide', 'popularity': 93, 'duration_ms': 132630}
+{'id': '2TktkzfozZifbQhXjT6I33', 'name': 'Evergreen (You Didn’t Deserve Me At All)', 'popularity': 88, 'duration_ms': 216680}
+{'id': '0ARKW62l9uWIDYMZTUmJHF', 'name': 'Shut Down', 'popularity': 88, 'duration_ms': 175889}
+{'id': '5odlY52u43F5BjByhxg7wg', 'name': 'golden hour', 'popularity': 83, 'duration_ms': 209259}
+{'id': '5hnGrTBaEsdukpDF6aZg8a', 'name': 'How Do I Say Goodbye', 'popularity': 86, 'duration_ms': 163603}
+{'id': '1Ame8XTX6QHY0l0ahqUhgv', 'name': 'THE LONELIEST', 'popularity': 86, 'duration_ms': 247067}
+{'id': '59CfNbkERJ3NoTXDvoURjj', 'name': 'Boyfriend', 'popularity': 86, 'duration_ms': 153000}
+{'id': '0WtM2NBVQNNJLh6scP13H8', 'name': 'Calm Down (with Selena Gomez)', 'popularity': 92, 'duration_ms': 239317}
+{'id': '38T0tPVZHcPZyhtOcCP7pF', 'name': "STAR WALKIN' (League of Legends Worlds Anthem)", 'popularity': 90, 'duration_ms': 210575}
+{'id': '0hquQWY3xvYqN4qtiquniF', 'name': 'Vegas (From the Original Motion Picture Soundtrack ELVIS)', 'popularity': 89, 'duration_ms': 182906}
+{'id': '4h9wh7iOZ0GGn8QVp4RAOB', 'name': "I Ain't Worried", 'popularity': 96, 'duration_ms': 148485}
+{'id': '1jOgJN75btuUONIdf57vHz', 'name': 'Munch (Feelin’ U)', 'popularity': 78, 'duration_ms': 104819}
+{'id': '1oqXQ2ghTORGDAkeLwkIDD', 'name': 'Gucci Flow', 'popularity': 66, 'duration_ms': 131120}
+{'id': '48qgXl0CQUVYJVn6xv0rsP', 'name': 'Nothing Changed', 'popularity': 74, 'duration_ms': 199111}
+{'id': '6w2laMOxRE0yUsbq4bVLiZ', 'name': 'Heyy', 'popularity': 73, 'duration_ms': 192727}
+{'id': '27ZZdyTSQWI7Cug2d2PkqV', 'name': 'BILLIE EILISH.', 'popularity': 89, 'duration_ms': 99282}
+{'id': '6PvHZ5vVjUhngh0t3pIsPc', 'name': 'Chocolate (feat. Young Thug and Gunna)', 'popularity': 71, 'duration_ms': 208372}
+{'id': '0wTTf3msjDJ8NcZGTmQJQV', 'name': 'My Friends (feat. Lil Durk)', 'popularity': 74, 'duration_ms': 158167}
+{'id': '2NVXBBbO4xGO851zrMfCFi', 'name': '2 Mins of Pain (feat. Alborosie)', 'popularity': 74, 'duration_ms': 136695}
+{'id': '4FyesJzVpA39hbYvcseO2d', 'name': 'Just Wanna Rock', 'popularity': 77, 'duration_ms': 123890}
+{'id': '6rI8uFFmGyvS2N6sqDCdu3', 'name': 'Bulletproof Maybach (feat. Offset)', 'popularity': 68, 'duration_ms': 177073}
+{'id': '7pZeacKYnK4unCplCmI2qb', 'name': 'Too Much (feat. Moneybagg Yo)', 'popularity': 70, 'duration_ms': 188869}
+{'id': '6mM8gri8d2abYYomjOV4ut', 'name': 'Stop Breathing', 'popularity': 78, 'duration_ms': 110706}
+{'id': '2tFwYCvY0x9IfeW63AdMpM', 'name': 'Take Shots (feat. Tory Lanez)', 'popularity': 64, 'duration_ms': 281985}
+{'id': '6XO8RlYuJCiI0v3IA48FeJ', 'name': 'Bye Bye', 'popularity': 84, 'duration_ms': 108498}
+{'id': '4L1zI1GJxi0Qq38aSYmsS0', 'name': "Can't Stop Won't Stop (feat. Kodak Black)", 'popularity': 71, 'duration_ms': 158350}
+{'id': '2BJWxD8xKrDv8vneTvTIm9', 'name': 'Beat the Odds', 'popularity': 81, 'duration_ms': 150000}
+{'id': '1NtyeXryylf8HWXnxVTD3v', 'name': 'Yungen (feat. Jack Harlow)', 'popularity': 73, 'duration_ms': 226115}
+{'id': '1KaRuTOGchQyTnrY3vWzfR', 'name': 'Aston Martin Truck', 'popularity': 66, 'duration_ms': 180240}
+{'id': '3TJTvFCoVZaWWTRuaIPkMl', 'name': 'BET', 'popularity': 69, 'duration_ms': 154285}
+{'id': '5QdVpZhASstTN4BBwglPz6', 'name': 'Ghetto Superstar (feat. G Herbo & Doe Boy)', 'popularity': 73, 'duration_ms': 244853}
+{'id': '0JvnmNjMnTQMRizhrKzMSO', 'name': 'Look Ma I Did It', 'popularity': 69, 'duration_ms': 207786}
+{'id': '2mzlyJ8Gb8cFMJvfENKnJQ', 'name': 'Treesha', 'popularity': 74, 'duration_ms': 105693}
+{'id': '74loibzxXRL875X20kenvk', 'name': 'Poland', 'popularity': 85, 'duration_ms': 83200}
+{'id': '7KXVIAuw3m2hxZanrpSXS3', 'name': 'Tomorrow 2 (with Cardi B)', 'popularity': 81, 'duration_ms': 209811}
+{'id': '0g2Bbgy7P41pFjMWJuzsf4', 'name': 'STAYING ALIVE (feat. Drake & Lil Baby)', 'popularity': 82, 'duration_ms': 178176}
+{'id': '3umPlMokEzAFxJO33tNdlY', 'name': 'IDGAF', 'popularity': 69, 'duration_ms': 138673}
+{'id': '6DVJ7Aqbml1X3wGxxV5QH5', 'name': '9 Lives (feat. Polo G & NLE Choppa)', 'popularity': 73, 'duration_ms': 228000}
+{'id': '6Md6lyVVoKWcOaSg8u1tDn', 'name': 'Shoot It Myself (feat. Future)', 'popularity': 70, 'duration_ms': 187843}
+{'id': '5uVW9FWVaQde0lfF4hYs4C', 'name': 'CODE (feat. Moneybagg Yo)', 'popularity': 75, 'duration_ms': 192427}
+{'id': '1QrL8zd8MIrCiOPuj02dxC', 'name': 'Back End', 'popularity': 52, 'duration_ms': 165478}
+{'id': '5RtOqP26S4KrWexNolBaQc', 'name': 'From Nothing', 'popularity': 73, 'duration_ms': 169306}
+{'id': '3wspfG772mi1c25JpnNOVP', 'name': 'Walk', 'popularity': 77, 'duration_ms': 166039}
+{'id': '6hFAavE0EiilAXtubEpEW0', 'name': 'Put The Minks Down (feat. 42 Dugg)', 'popularity': 56, 'duration_ms': 116906}
+{'id': '2yjlYDiNiQkdxVqTlaSrlX', 'name': 'Super Freaky Girl', 'popularity': 82, 'duration_ms': 170977}
+{'id': '2g3qKijfeHfDyM7Fmaoi5M', 'name': 'Blow', 'popularity': 75, 'duration_ms': 182533}
+{'id': '7asQMsxC6dNgY0inCzJC5O', 'name': 'G Nikes (feat. Polo G)', 'popularity': 70, 'duration_ms': 194036}
+{'id': '5tzEcVk8jFSBhTrO0ZYJdZ', 'name': 'I’m So Awesome', 'popularity': 72, 'duration_ms': 187202}
+{'id': '4chjloVr9wD7lxtCR2L4ac', 'name': 'Robbery Part 5', 'popularity': 63, 'duration_ms': 118787}
+{'id': '0vbmYCIWENdYyJ36Q4CdSz', 'name': '90 Proof (with J. Cole)', 'popularity': 75, 'duration_ms': 208269}
+{'id': '6H6ZtVp6DymejLOJLdRzOI', 'name': 'Shordie (with Gunna)', 'popularity': 68, 'duration_ms': 176588}
+{'id': '6ug9fUi5oLLgQgOF1G8WkM', 'name': 'California Breeze', 'popularity': 80, 'duration_ms': 177789}
+{'id': '2A0G0bPmlkUXUbvWqrAXzg', 'name': 'Not Finished', 'popularity': 78, 'duration_ms': 163453}
+{'id': '1r3qUIDhMvoTct7cxPnbdN', 'name': "Can't Believe It (feat. 2 Chainz)", 'popularity': 70, 'duration_ms': 172106}
+{'id': '2BSl2gSFHdzJAMus74qzNj', 'name': 'Backstage Passes (feat. Jack Harlow)', 'popularity': 76, 'duration_ms': 158431}
+{'id': '3GdWfmQBiiJrDUvSZS1bGv', 'name': 'Never Sleep (with Lil Baby feat. Travis Scott)', 'popularity': 78, 'duration_ms': 185785}
+{'id': '4wRJHXHDJnKSPr9IVn0BFR', 'name': 'To The Bone (feat. YoungBoy Never Broke Again)', 'popularity': 75, 'duration_ms': 283196}
+{'id': '6R6ZS5HYH4RdXkjEwEJO5R', 'name': 'One Up', 'popularity': 73, 'duration_ms': 160000}
+{'id': '6nrPRHGdz1ytpX2ZBZ4RGU', 'name': 'Falsetto (feat. Lil Tecca)', 'popularity': 68, 'duration_ms': 135572}
+{'id': '0AzqJBVMdHP9ijAadQ0T18', 'name': 'Sober (feat. Roddy Ricch & Post Malone)', 'popularity': 71, 'duration_ms': 253913}
+{'id': '23pGZ6n6Xd3yV7qK4xw7dx', 'name': 'B.R.O. (Better Ride Out) [feat. Roddy Ricch]', 'popularity': 75, 'duration_ms': 178041}

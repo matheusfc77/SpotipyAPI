@@ -1,0 +1,2 @@
+{'id': '37i9dQZF1DXcBWIGoYBM5M', 'description': 'Taylor Swift is on top of the Hottest 50!', 'name': "Today's Top Hits", 'external_urls': 'https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M'}
+{'id': '37i9dQZF1DX0XUsuxWHRQd', 'description': 'New music from Lil Uzi Vert, Roddy Ricch and A Boogie Wit da Hoodie.', 'name': 'RapCaviar', 'external_urls': 'https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd'}
