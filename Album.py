@@ -15,7 +15,10 @@ class Album(ExtractionSpotipy):
 
         lt_ids_albums = []
         for info in info_playlist['tracks']['items']:
-          lt_ids_albums.append(info['track']['album']['id'])
+          try:
+            lt_ids_albums.append(info['track']['album']['id'])
+          except TypeError:
+            print('PLAYLIST {}: ALBUM WITH EMPTY FIELD'.format(playlist_id))
 
         ls_albums = []
         for i, id_album in enumerate(list(set(lt_ids_albums))):
@@ -40,7 +43,7 @@ class Album(ExtractionSpotipy):
         lt_playlists = self.persist.read(path_read)
         lt_albumns_playlists = []
         
-        for id, playlist_id in enumerate(lt_playlists):
+        for playlist_id in lt_playlists:
             if self.verbose: print('{}: START ALBUMNS PLAYLIST {}'.format(self.now(), playlist_id))
             lt_albumns = self.request(playlist_id)
             lt_albumns_playlists.append(lt_albumns)

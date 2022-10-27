@@ -1,7 +1,6 @@
 import datetime
 import pytz
 
-
 class Now:
 
     def now(self):
