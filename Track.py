@@ -15,7 +15,10 @@ class Track(ExtractionSpotipy):
 
         lt_ids_tracks = []
         for info in info_playlist['tracks']['items']:
-          lt_ids_tracks.append(info['track']['id'])
+          try:
+            lt_ids_tracks.append(info['track']['id'])
+          except TypeError:
+            print('PLAYLIST {}: TRACK WITH EMPTY FIELD'.format(playlist_id))
 
         ls_tracks = []
         for i, id_track in enumerate(list(set(lt_ids_tracks))):
@@ -40,7 +43,7 @@ class Track(ExtractionSpotipy):
     def extract(self, path_read, path_write):
         lt_playlists = self.persist.read(path_read)
         lt_tracks_playlists = []
-        for id, playlist_id in enumerate(lt_playlists):
+        for playlist_id in lt_playlists:
             if self.verbose: print('{}: START TRACKS PLAYLIST {}'.format(self.now(), playlist_id))
             lt_tracks = self.request(playlist_id)
             lt_tracks_playlists.append(lt_tracks)

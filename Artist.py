@@ -15,7 +15,10 @@ class Artist(ExtractionSpotipy):
 
         lt_ids_artists = []
         for info in info_playlist['tracks']['items']:
-          lt_ids_artists.append([art['id'] for art in info['track']['album']['artists']])
+          try:
+            lt_ids_artists.append([art['id'] for art in info['track']['album']['artists']])
+          except TypeError:
+            print('PLAYLIST {}: ARTIST WITH EMPTY FIELD'.format(playlist_id))
 
         lt_ids_artists_flatten = [ele for sublist in lt_ids_artists for ele in sublist]
         ls_artists = []
@@ -40,7 +43,7 @@ class Artist(ExtractionSpotipy):
     def extract(self, path_read, path_write):
         lt_playlists = self.persist.read(path_read)
         lt_artists_playlists = []
-        for id, playlist_id in enumerate(lt_playlists):
+        for playlist_id in lt_playlists:
             if self.verbose: print('{}: START ARTISTS PLAYLIST {}'.format(self.now(), playlist_id))
             lt_artists = self.request(playlist_id)
             lt_artists_playlists.append(lt_artists)
