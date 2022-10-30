@@ -10,6 +10,16 @@ class Playlist(ExtractionSpotipy):
 
 
     def request(self, playlist_id='spotify'):
+        '''
+        Method for extraction playlists
+
+        Args
+            string (playlist_id): playlist for playlists extraction
+
+        Return
+            list: list with playlist data
+        '''
+
         if self.verbose: print("{}: START EXTRACTION PLAYLISTS".format(self.now()))
 
         playlists = self.sp.user_playlists(
@@ -38,5 +48,16 @@ class Playlist(ExtractionSpotipy):
 
 
     def extract(self, path_read, path_write):
+        '''
+        Method for read and write data
+
+        Args
+            string (path_read): data source
+            string (path_write): path for save the data
+
+        Return 
+            None
+        '''
+        
         lt_playlists = self.request()
         self.persist.write(path_write, lt_playlists)

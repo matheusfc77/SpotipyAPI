@@ -8,6 +8,19 @@ class Album(ExtractionSpotipy):
 
 
     def request(self, playlist_id):
+        '''
+        Method for extraction albumns
+
+        Args
+            string (playlist_id): playlist for albumns extraction
+
+        Return
+            list: list with album data
+
+        Raises
+            TypeError: album_id is empty
+        '''
+
         if self.verbose: print("{}: START EXTRACTION ALBUMS".format(self.now()))
 
         urn = 'spotify:playlist:{}'.format(playlist_id)
@@ -40,6 +53,17 @@ class Album(ExtractionSpotipy):
 
 
     def extract(self, path_read, path_write):
+        '''
+        Method for read and write data
+
+        Args
+            string (path_read): data source
+            string (path_write): path for save the data
+
+        Return 
+            None
+        '''
+
         lt_playlists = self.persist.read(path_read)
         lt_albumns_playlists = []
         

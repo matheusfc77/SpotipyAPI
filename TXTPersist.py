@@ -11,6 +11,16 @@ class TXTPersist(IPersist, Now):
 
 
     def read(self, path):
+        '''
+        Method for read the data
+
+        Args
+            string (path): source data
+
+        Return
+            list: list with id of the object (album, artist, ...)
+        '''
+
         if self.verbose: print('{}: START READ TXT {}'.format(self.now(), path))
 
         txt_info = []
@@ -26,6 +36,17 @@ class TXTPersist(IPersist, Now):
 
 
     def write(self, path, info):
+        '''
+        Method for save the data
+
+        Args
+            string (path): path for save the data
+            list (info): list with the data
+
+        Return
+            None
+        '''
+        
         if self.verbose: print('{}: START WRITE TXT {}'.format(self.now(), path))
         with open(path, 'w') as fp:
             for item in info:

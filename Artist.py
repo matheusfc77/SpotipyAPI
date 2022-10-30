@@ -8,6 +8,19 @@ class Artist(ExtractionSpotipy):
 
 
     def request(self, playlist_id):
+        '''
+        Method for extraction artists
+
+        Args
+            string (playlist_id): playlist for artists extraction
+
+        Return
+            list: list with artist data
+
+        Raises
+            TypeError: artist_id is empty
+        '''
+
         if self.verbose: print("{}: START EXTRACTION ARTISTS".format(self.now()))
 
         urn = 'spotify:playlist:{}'.format(playlist_id)
@@ -41,6 +54,17 @@ class Artist(ExtractionSpotipy):
 
 
     def extract(self, path_read, path_write):
+        '''
+        Method for read and write data
+
+        Args
+            string (path_read): data source
+            string (path_write): path for save the data
+
+        Return 
+            None
+        '''
+        
         lt_playlists = self.persist.read(path_read)
         lt_artists_playlists = []
         for playlist_id in lt_playlists:
