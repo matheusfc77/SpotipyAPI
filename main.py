@@ -5,9 +5,9 @@ from Track import Track
 from Pipeline import Pipeline
 from TXTPersist import TXTPersist
 
-from Settings import CLIENT_ID, CLIENT_SECRET
+# create app in https://developer.spotify.com/dashboard/applications and save CLIENT_ID and CLIENT_SECRET in Settings.py
+from Settings import CLIENT_ID, CLIENT_SECRET 
 from Time import calculate_time
-
 
 persist = TXTPersist()
 
@@ -15,6 +15,7 @@ PATHPLAYLIST = 'data/playlists.txt'
 PATHALBUMS = 'data/albums.txt'
 PATHARTISTS = 'data/artists.txt'
 PATHTRACKS = 'data/tracks.txt'
+# WARNING: the spotify block the IP adrress for 48h after some extractions. NM_PLAYLISTS max must to be 10
 NM_PLAYLISTS = 2
 
 playlist = Playlist(CLIENT_ID, CLIENT_SECRET, persist=persist, nm_playlists=NM_PLAYLISTS)
@@ -32,7 +33,8 @@ pipeline.add_object(order=1, object=track, path_read=PATHPLAYLIST, path_write=PA
 def execute_pipeline(pipeline):
     pipeline.execute(parallel=True)
 
-LEN_TEST = 3
+# WARNING: same thing of the row 18. Be carefull with LEN_TEST
+LEN_TEST = 1
 lt_time = []
 for _ in range(LEN_TEST):
     lt_time.append(execute_pipeline(pipeline))
