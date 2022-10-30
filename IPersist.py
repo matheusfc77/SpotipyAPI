@@ -1,5 +1,8 @@
 
 class IPersist:
+    '''
+    Class for standardizing data persistence
+    '''
 
     def read(self, path): raise NotImplementedError
 

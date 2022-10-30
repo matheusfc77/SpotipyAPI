@@ -8,6 +8,19 @@ class Track(ExtractionSpotipy):
 
 
     def request(self, playlist_id):
+        '''
+        Method for extraction tracks
+
+        Args
+            string (playlist_id): playlist for tracks extraction
+
+        Return
+            list: list with track data
+
+        Raises
+            TypeError: track_id is empty
+        '''
+
         if self.verbose: print("{}: START EXTRACTION TRACKS".format(self.now()))
 
         urn = 'spotify:playlist:{}'.format(playlist_id)
@@ -41,6 +54,17 @@ class Track(ExtractionSpotipy):
 
 
     def extract(self, path_read, path_write):
+        '''
+        Method for read and write data
+
+        Args
+            string (path_read): data source
+            string (path_write): path for save the data
+
+        Return 
+            None
+        '''
+        
         lt_playlists = self.persist.read(path_read)
         lt_tracks_playlists = []
         for playlist_id in lt_playlists:

@@ -2,6 +2,9 @@ import threading
 from Now import Now
 
 class Pipeline(Now):
+    '''
+    Class for create pipeline of extraction
+    '''
 
     def __init__(self, verbose=True):
         self.lt_objetcs = []
@@ -9,10 +12,34 @@ class Pipeline(Now):
 
 
     def add_object(self, order, object, path_read, path_write):
+        '''
+        Method for add object of extraction
+        
+        Args
+            int (order): execution order of object
+            ExtractionSpotipy (object): object of extraction
+            string (path_read): source data
+            string (path_write): local for save the data
+
+        Return
+            None
+        '''
+
         self.lt_objetcs.append((order, object, path_read, path_write))
 
 
     def execute(self, parallel=True):
+        '''
+        Method for execution of pipeline
+
+        Args
+            boolean (parallel): 
+                if True, execute the objects based in the order with threads
+                if False, execute the objects in sequential order
+
+        Return
+            None
+        '''
 
         if parallel:
             if self.verbose: print("{}: START PARALLEL PIPELINE".format(self.now()))
