@@ -1,2 +1,2 @@
 # SpotipyAPI
-Criação de uma API para consumo das informações do Spotify. Extração feita de forma sequencial e paralela.
+Creation of API to collect Spotify information. Data extraction in sequential and parallel format.
